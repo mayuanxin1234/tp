@@ -11,7 +11,7 @@ We are a team based in the [School of Computing, National University of Singapor
 
 ### Pang Chin Kiat, Vincent
 
-<img src="images/vincent.png" width="200px">
+<img src="images/securespider.png" width="200px">
 
 [[github](https://github.com/securespider)]
 [[portfolio](team/securespider.md)]
@@ -22,7 +22,7 @@ We are a team based in the [School of Computing, National University of Singapor
 
 ### Ma Yuanxin
 
-<img src="images/mayuanxin1234.png" width="200px">
+<img src="./images/mayuanxin1234.png" width="200px">
 
 [[github](https://github.com/mayuanxin1234)]
 [[portfolio](team/mayuanxin1234.md)]
@@ -31,21 +31,22 @@ We are a team based in the [School of Computing, National University of Singapor
 *  Responsibilities: Deliverables and deadlines, and Integration
 
 
-### Diat Bhin
+### Lim Diat Bhin
 
-<img src="images/johndoe.png" width="200px">
+<img src="./images/diatbbin.png" width="200px">
 
-[[github](http://github.com/johndoe)] [[portfolio](team/johndoe.md)]
-
-* Role: Developer
-* Responsibilities: Data
-
-### Wen Jue
-
-<img src="images/johndoe.png" width="200px">
-
-[[github](http://github.com/johndoe)]
-[[portfolio](team/johndoe.md)]
+[[github](https://github.com/Diatbbin)]
+[[portfolio](team/diatbbin.md)]
 
 * Role: Developer
-* Responsibilities: Dev Ops + Threading
+* Responsibilities: Code quality and Model component
+
+### Yeo Wen Jue
+
+<img src="images/mrtwit99.png" width="200px">
+
+[[github](https://github.com/MrTwit99)]
+[[portfolio](team/mrtwit99.md)]
+
+* Role: Developer
+* Responsibilities: Testing
